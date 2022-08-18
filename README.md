@@ -2,7 +2,7 @@
 
 <h3>Projeto</h3>
 <p> FunBike é uma página com o intuito de mostrar as motos mais populares aqui no Brasil, de cada montadora em especifico, e separadas por categorias de acordo com a cilíndrada. </P>
-<p> Foi adicionado a categoria da moto, sendo assim, subdivididas em duas categorias: Naked e Sport. </p>
+<p> Foi adicionado a categoria da moto, sendo assim, subdivididas em: Naked, Sport e Trail. </p>
 
 <h2> CATEGORIAS </h2>
 <table>
