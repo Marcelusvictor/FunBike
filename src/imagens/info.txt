@@ -1,0 +1,59 @@
+Separar por montadora
+
+Honda (CB250,CB500F,CBR650R,CBR1000RR)
+Yamaha(MT03,R3,R6,MT07,R1)
+Kawasaki(NINJA400,ZX6-R,ZX10)
+Bmw(G310-R,F-750GS,S1000-RR)
+Ktm(DUKE 390)
+Suzuki(GSX-750, GSX-R1000R)
+Ducati(STREETFIGTHER V4S, PANIGALE V4S)
+
+Separar por categoria
+
+Alta Cilindrada  >=900
+Média cilindrada  >=500 && <=899
+Baixa Cilindrada <=499
+
+Separar por  tipo
+
+Sport
+Naked
+
+Alta CBR1000RR R1 ZX10 GSX-R1000R STREETFIGTHER V4S PANIGALE V4S
+Média CBR650R CB500F MT07 R6 ,ZX6-R F-750GS GSX-750
+Baixa CB250 MT03 R3 NINJA400 G310-R DUKE 390 
+
+
+Escolha sua montadora
+	Escolha a Cilindrada
+		Mostrar motos da montadora na categoria 
+
+
+<TITLE> FUN BIKE </TITLE>
+<IMG> LOGO WSBK E LOGO MOTOGP</IMG>
+<H1> </H1>
+<BODY>
+
+		CARD 
+
+</BODY>
+<footer>
+<a style="text"> Developed by @Marcelusvictor </a>
+</footer>
+
+Fontes
+
+https://fonts.google.com/specimen/Righteous?preview.text=Fun%20bike&preview.text_type=custom
+https://fonts.google.com/specimen/Russo+One?preview.text=Fun%20bike&preview.text_type=custom
+https://fonts.google.com/specimen/Press+Start+2P?preview.text=Fun%20bike&preview.text_type=custom
+https://fonts.google.com/specimen/Monoton?preview.text=Fun%20bike&preview.text_type=custom
+https://fonts.google.com/specimen/Audiowide?preview.text=Fun%20bike&preview.text_type=custom
+
+
+
+
+Tentar criar um menu com o simbolo de cada montadora, e ao passar o mouse sobre o simbolo, apareça as opções Baixa média e alta
+com o clique , te leva para as motos daquela montadora naquela categoria
+
+			
+

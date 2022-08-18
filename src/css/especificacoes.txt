@@ -1,0 +1,27 @@
+
+
+
+
+header class desenho
+	img class boneco
+	h1 class titulo
+	h3 class frase
+
+main class principal
+	img class gameboy
+
+	ul class lista
+	li class motos
+
+	div class foto
+		img class logo
+	div class info
+		h1 class montadora
+		h3 class modelo
+	div class retrato
+		img class moto
+	div class tabela
+
+footer class base
+	img class wsbk
+	img class mgp

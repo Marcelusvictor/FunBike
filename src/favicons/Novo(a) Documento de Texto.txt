@@ -1,0 +1,63 @@
+ABA
+
+<link rel="icon" type="image/png" sizes="16x16"  href="/favicons/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+BMW
+
+<link rel="icon" type="image/png" sizes="16x16"  href="/favicons/bmw.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+DUCATI
+
+<link rel="icon" type="image/png" sizes="16x16"  href="/favicons/ducati.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+HONDA
+
+<link rel="icon" type="image/png" sizes="16x16"  href="/favicons/honda.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+KTM
+
+
+<link rel="icon" type="image/png" sizes="16x16"  href="/favicons/ktm.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+
+SUZUKI
+
+
+<link rel="icon" type="image/png" sizes="16x16"  href="/favicons/suzuki.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+KAWASAKI
+
+
+
+<link rel="icon" type="image/png" sizes="16x16"  href="/favicons/kawasaki.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+
+
+YAMAHA
+
+
+<link rel="icon" type="image/png" sizes="16x16"  href="/favicons/yamaha.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">	

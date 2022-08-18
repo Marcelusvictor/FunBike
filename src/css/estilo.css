@@ -1,0 +1,32 @@
+body {
+    font-family: 'Audiowide', cursive;
+    background-image: linear-gradient(to bottom,#B9DAE1,#9B9A96,#2B2A2F);
+    text-align: center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    min-height: 2000vh; 
+}
+
+main {
+    display: inline-block;
+    margin-top: 2%;
+    padding: 15px;
+}
+
+#principal .boneco .gameboy {
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.boneco {
+    display: inline-block;
+    justify-content: space-between;
+}
+
+.gameboy {
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+}
